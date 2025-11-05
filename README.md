@@ -42,9 +42,6 @@ Euan Gordon
 
 ## Reference Materials:
 
-### View the AisHubToCosmosDBFunction 
-The Azure Function solution is available on [GitHub](https://github.com/euangordon/AisHubToComsosDBFunction).
-
 ### Getting Started with Azure CosmosDB: 
 See [Azure Cosmos DB documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 
